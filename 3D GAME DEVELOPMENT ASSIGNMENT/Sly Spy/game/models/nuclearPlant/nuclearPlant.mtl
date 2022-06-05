@@ -1,0 +1,11 @@
+# Material file for nuclearPlant.obj
+
+newmtl 10078_Nuclear_Power_Plant
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd 10078_Nuclear_Power_Plant_v1_Diffuse.jpg
+

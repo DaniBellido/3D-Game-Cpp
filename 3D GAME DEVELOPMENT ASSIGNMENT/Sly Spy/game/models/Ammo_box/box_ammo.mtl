@@ -1,0 +1,11 @@
+# Material file for box_ammo.obj
+
+newmtl skin
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd ..\..\..\..\GameEditor\game\models\Ammo_box\box_ammo.jpg
+
